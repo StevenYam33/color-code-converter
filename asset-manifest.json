@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//stevenyam33.github.io/color-code-converter/static/css/main.b9314103.css",
-    "main.js": "//stevenyam33.github.io/color-code-converter/static/js/main.b61cd3b8.js",
-    "static/js/787.f93e6645.chunk.js": "//stevenyam33.github.io/color-code-converter/static/js/787.f93e6645.chunk.js",
-    "index.html": "//stevenyam33.github.io/color-code-converter/index.html",
-    "main.b9314103.css.map": "//stevenyam33.github.io/color-code-converter/static/css/main.b9314103.css.map",
-    "main.b61cd3b8.js.map": "//stevenyam33.github.io/color-code-converter/static/js/main.b61cd3b8.js.map",
-    "787.f93e6645.chunk.js.map": "//stevenyam33.github.io/color-code-converter/static/js/787.f93e6645.chunk.js.map"
+    "main.css": "/color-code-converter/static/css/main.b9314103.css",
+    "main.js": "/color-code-converter/static/js/main.c87ae18d.js",
+    "static/js/787.f93e6645.chunk.js": "/color-code-converter/static/js/787.f93e6645.chunk.js",
+    "index.html": "/color-code-converter/index.html",
+    "main.b9314103.css.map": "/color-code-converter/static/css/main.b9314103.css.map",
+    "main.c87ae18d.js.map": "/color-code-converter/static/js/main.c87ae18d.js.map",
+    "787.f93e6645.chunk.js.map": "/color-code-converter/static/js/787.f93e6645.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9314103.css",
-    "static/js/main.b61cd3b8.js"
+    "static/js/main.c87ae18d.js"
   ]
 }
