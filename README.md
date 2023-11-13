@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Logo" src="https://github.com/StevenYam33/color-code-converter/tree/main/src/Images/logo.png" width="75" />
+    <img alt="Logo" src="https://raw.githubusercontent.com/StevenYam33/color-code-converter/main/src/Images/logo.png" width="75" />
 </div>
 <h1 align="center">
     <a href="https://stevenyam.dev/color-code-converter/" target="_blank">Color Code Converter</a>   
@@ -13,7 +13,7 @@
 # How to use
 
 <p align="center">
-    Just simplely enter your color code in HEX, RGB, HSL, or CMYK format into the input field at the middle of the page.
+    Simply enter your color code in HEX, RGB, HSL, or CMYK format into the input field in the middle of the page.
 </p>
 
 # Accepted Color Formats
